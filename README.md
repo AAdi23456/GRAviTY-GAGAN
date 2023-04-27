@@ -10,6 +10,7 @@ Web Developer
 
 ### Skills
 
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -38,7 +39,7 @@ Web Developer
 
 <a href="http://www.github.com/GRAviTY-GAGAN"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GRAviTY-GAGAN&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/GRAviTY-GAGAN"><img src="https://activity-graph.herokuapp.com/graph?username=GRAviTY-GAGAN&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/GRAviTY-GAGAN"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=GRAviTY-GAGAN&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/GRAviTY-GAGAN" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GRAviTY-GAGAN&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
